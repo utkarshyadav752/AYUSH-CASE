@@ -1,0 +1,10 @@
+{
+  "name": "AyushCase — Intelligent Patient Case-Taking Platform",
+  "description": "Patient-facing holistic clinical case-taking and smart automation platform for Ministry of Ayush, converting natural voice narrations into structured FHIR-compliant Ayush clinical sheets.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
